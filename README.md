@@ -2,6 +2,12 @@
 
 A Flipper Zero IR remote for the **Polk MagnifiMini soundbar**.
 
+## Screenshots
+
+![Remote controls](images/screenshots/screen_controls.png)
+![Audio Input Sources](images/screenshots/screen_audio_sources.png)
+![Audio EQ Presets](images/screenshots/screen_eq_presets.png)
+
 ## Features
 
 - Power, Mute, Night mode
