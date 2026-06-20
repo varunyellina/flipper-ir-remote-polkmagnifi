@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Build FAP
-        uses: flipperdevices/flipperzero-ufbt-action@v0
+        uses: flipperdevices/flipperzero-ufbt-action@v0.1.4
         id: build
         with:
           task: build
